@@ -10,5 +10,17 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SaurabhshuklaDeveloper\\LaravelSubscribeUs\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "SaurabhshuklaDeveloper\\LaravelSubscribeUs\\SubscribeUsServiceProvider"
+            ]
+        }
+    }
 }
