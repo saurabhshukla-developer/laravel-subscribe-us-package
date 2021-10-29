@@ -1,0 +1,14 @@
+{
+    "name": "saurabhshukla-developer/laravel-subscribe-us",
+    "description": "This is laravel subscription",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saruabh Shukla",
+            "email": "saurabhshukla.developer@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
